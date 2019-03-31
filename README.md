@@ -6,7 +6,7 @@ Whatsapp web interface using java.
 ## Descrição:
 Interface feita através do uso de Jframe. 
 
-(...) EM CONSTRUÇÃO. 
+Todas as imagens de pessoas foram retiradas do site https://pixabay.com/. 
 
 ## Linguagem e ferramenta:
 - Para esse projeto usamos a linguagem JAVA. 
